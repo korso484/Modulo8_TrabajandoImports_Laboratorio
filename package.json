@@ -1,0 +1,21 @@
+{
+  "name": "Modulo8_TrabajandoImports_Laboratorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korso484/Modulo8_TrabajandoImports_Laboratorio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korso484/Modulo8_TrabajandoImports_Laboratorio/issues"
+  },
+  "homepage": "https://github.com/korso484/Modulo8_TrabajandoImports_Laboratorio#readme"
+}
